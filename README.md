@@ -17,7 +17,19 @@ This is a proof of concept repository setup to
 ----
 
 
+### Background
 
+Hybrid cloud is an environment that corporations will need to address in the coming future.  Options such as AWS GitHub Entgerprise, internal GHE,
+github.com and the new enterprise github.com offering are all options.  This repository is intended as a POC for github.com enterprise.  Lets see 
+how it goes...
+
+### Code of Conduct
+
+This project is time limited to 2 days no more!  The goal is to learn and later apply what you have learned in this process
+to utilize the features of github.com enterprise.  Follow the instructions in the ![alt hackathon-steps] hackathon-steps directory
+or risk failure.
+
+ 
 ### running locally
 
 Install the latest [Node.js](http://nodejs.org) 8 Stable
