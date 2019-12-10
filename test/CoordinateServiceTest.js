@@ -42,7 +42,7 @@ describe('CoordinateService', () => {
                             new Coordinate(4, 1)];
         assert.deepEqual(player.getSegments(), expectedSegments, 'Player did not move left as expected');
 
-        player.changeDirection(Direction.DOWN);
+        player.changeDirection(Direction.UP);
         CoordinateService.movePlayer(player);
         expectedSegments = [new Coordinate(5, 1),
                             new Coordinate(5, 2),
